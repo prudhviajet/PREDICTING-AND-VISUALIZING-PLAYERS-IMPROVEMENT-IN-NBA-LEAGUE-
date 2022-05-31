@@ -7,8 +7,8 @@ year, a few of players progress considerably from the previous year. Those playe
 value to the teams they play for, both competitively and financially. The NBA recognizes their 
 importance by awarding the Most Improved Player (MIP) Award to the player who has improved 
 the most over the previous season. As a result, franchises benefit from being able to precisely 
-estimate if and how much a player will progress in the coming season.<br>
- Hence, we aim to contribute the franchises on depicting the factors that influence a player's 
+estimate if and how much a player will progress in the coming season.</p><br>
+<p>Hence, we aim to contribute the franchises on depicting the factors that influence a player's 
 success and predict their performance for the next season so that franchises can pick players who 
 tend to improve based on their previous performance and fantasy league players can know who to 
 watch for the coming season. </p>
